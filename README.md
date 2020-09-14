@@ -2,4 +2,5 @@
 University of Toronto - Continuing Studies - Deep Learning - Final Project 
 
 Keras StyleGAN Model from: https://github.com/manicman1999/StyleGAN-Keras
+
 Model was not ran on Google Colab - Google Colab Notebook is included for purpose for presentation.
